@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_course" type="drawable">@mipmap/ic_course</item>
+    <item name="ic_atm" type="drawable">@mipmap/ic_atm</item>
+    <item name="ic_calc_currency" type="drawable">@mipmap/ic_calc_currency</item>
+    <item name="ic_calc_currency_w" type="drawable">@mipmap/ic_calc_currency_white</item>
+    <item name="ic_char" type="drawable">@mipmap/ic_char</item>
+    <item name="ic_char_w" type="drawable">@mipmap/ic_char_white</item>
+    <item name="ic_exit" type="drawable">@mipmap/ic_exit</item>
+    <item name="ic_info" type="drawable">@mipmap/ic_info</item>
+    <item name="ic_office" type="drawable">@mipmap/ic_office</item>
+    <item name="ic_settings" type="drawable">@mipmap/ic_settings</item>
+    <item name="ic_terminal" type="drawable">@mipmap/ic_terminal</item>
+</resources>
